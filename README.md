@@ -1,6 +1,6 @@
 # Grocery Product Matching Pipeline
 
-A production-style NLP pipeline that matches equivalent grocery products across two retailers (Walmart and Wegmans) without relying on UPC codes. Built as a take-home engineering assignment using 50K+ rows per store. Input data available in this [folder](https://your-drive-link-here). [Pinning data soon!]
+A production-style NLP pipeline that matches equivalent grocery products across two retailers (Walmart and Wegmans) without relying on UPC codes. Built as a take-home engineering assignment using 50K+ rows per store. Input data available in this [folder](https://drive.google.com/drive/folders/1PYzMDLWMYNYjMERD_AVaScFzSZyTjjae).
 
 ---
 
